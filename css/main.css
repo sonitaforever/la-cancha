@@ -1,0 +1,72 @@
+/* Inserta tu CSS aqui */
+.contenedor {
+	background-color: #7CB678;
+	height: 550px;
+	width: 1000px;
+	margin: auto;
+	position: relative;
+
+}
+
+.box {
+	background-color: #7CB678;
+	height: 500px;
+	width: 950px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FEFCFC;
+	position: absolute;
+	top: 23px;
+	left: 24px;
+}
+
+.arco {
+	position: absolute;
+	height: 250px;
+	width: 150px;
+	
+}
+
+.izquierdo {
+	top: 120px;
+	left: 0;
+	border: 1px solid white;
+}
+
+.derecho {
+	top: 120px;
+	right: 0;
+	border: 1px solid white;
+}
+
+.centro {
+	position: absolute;
+	width: 240px;
+	height: 250px;
+	border-radius: 200px;
+	-moz-border-radius: 200px;
+	-webkit-border-radius: 200px;
+	border: 1px solid white;
+	top: 120px;
+	left: 350px;
+
+}
+
+.uno {
+	position: relative;
+	left: 140px;
+	top: 125px;
+}
+
+.dos {
+	position: relative;
+	top: 50px;
+	left: 450px;
+}
+
+.tres {
+	position: relative;
+	top: 340px;
+	left: 710px;
+
+}
